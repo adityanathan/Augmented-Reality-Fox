@@ -1,6 +1,8 @@
 # Augmented Reality Fox
 
-## Depenedencies
+Website: [adityanathan.github.io/projects](https://adityanathan.github.io/projects)
+
+## Dependencies
 
 - Python
 - OpenCV
